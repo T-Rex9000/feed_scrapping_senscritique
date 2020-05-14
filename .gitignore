@@ -1,0 +1,6 @@
+venv
+*.csv
+*.png
+*.exe
+.idea
+ghostdriver.log
